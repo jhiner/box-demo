@@ -14,3 +14,7 @@ The setup in box is somewhat convoluted.
 6. Go to https://app.box.com/master/settings/openbox (the Admin console)
 7. Under `Custom Applications` click Authorize New App.
 8. For the API Key, enter the Client ID of the app you defined above.
+
+## Usage
+
+Run `node app.js` and it should give you an app token.
